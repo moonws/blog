@@ -1,0 +1,20 @@
+{
+  "name": "zkingblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "吴莎 <727712310@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/moonws/myblog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
